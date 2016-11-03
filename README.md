@@ -1,2 +1,2 @@
 # Clear
-The android app for the minimalist lifestyle.
+The Android app for the minimalist lifestyle.
